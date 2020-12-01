@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="573" height="262.5" viewBox="0 0 573 262.5">
+  <g id="Grupo_29556" data-name="Grupo 29556" transform="translate(-434 -5724)">
+    <rect id="Rectángulo_26793" data-name="Rectángulo 26793" width="573" height="29" transform="translate(434 5752)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26795" data-name="Rectángulo 26795" width="573" height="29" transform="translate(434 5781)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26797" data-name="Rectángulo 26797" width="573" height="29" transform="translate(434 5839)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26799" data-name="Rectángulo 26799" width="573" height="29" transform="translate(434 5898)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26801" data-name="Rectángulo 26801" width="573" height="29" transform="translate(434 5957)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26794" data-name="Rectángulo 26794" width="573" height="29" transform="translate(434 5724)" fill="#e8a280"/>
+    <rect id="Rectángulo_26796" data-name="Rectángulo 26796" width="573" height="29" transform="translate(434 5810)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26798" data-name="Rectángulo 26798" width="573" height="29" transform="translate(434 5868)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26800" data-name="Rectángulo 26800" width="573" height="29" transform="translate(434 5927)" fill="#f3c7b2"/>
+    <text id="Saldo_en_libros" data-name="Saldo en libros" transform="translate(445 5754.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo en libros</tspan></text>
+    <text id="Menos:_Notas_débito" data-name="Menos: Notas débito" transform="translate(445 5783.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Menos: Notas débito</tspan></text>
+    <text id="Saldo_ajustado_en_libros" data-name="Saldo ajustado en libros" transform="translate(445 5843.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo ajustado en libros</tspan></text>
+    <text id="Más:_consignaciones_en_tránsito" data-name="Más: consignaciones en tránsito" transform="translate(445 5902.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Más: consignaciones en tránsito</tspan></text>
+    <text id="Saldo_ajustado_al_extracto" data-name="Saldo ajustado al extracto" transform="translate(445 5961.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo ajustado al extracto</tspan></text>
+    <text id="Conciliación_Bancaria" data-name="Conciliación Bancaria" transform="translate(459 5729.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="165.724" y="17">Conciliación Bancaria</tspan></text>
+    <text id="Más:_Notas_crédito" data-name="Más: Notas crédito" transform="translate(443 5814.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Más: Notas crédito</tspan></text>
+    <text id="Saldo_en_extracto_bancario_a_31_marzo" data-name="Saldo en extracto bancario a 31 marzo" transform="translate(443 5872.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo en extracto bancario a 31 </tspan></text>
+    <text id="Menos:_cheques_girados_y_no_cobrados" data-name="Menos: cheques girados y no cobrados" transform="translate(443 5931.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Menos: cheques girados y no </tspan></text>
+    <text id="_1.170.122_" data-name="$1.170.122 " transform="translate(822 5754.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="66.029" y="17">$1.170.122 </tspan></text>
+    <text id="_603.022_" data-name="$603.022   " transform="translate(821 5843.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17" xml:space="preserve">$603.022   </tspan></text>
+    <text id="_1.955.336_" data-name="$1.955.336 " transform="translate(821 5902.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="64.772" y="17">$1.955.336 </tspan></text>
+    <text id="_603.022_2" data-name="$603.022 " transform="translate(821 5961.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17">$603.022 </tspan></text>
+    <text id="_579.666_" data-name="$579.666 " transform="translate(822 5785.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17">$579.666 </tspan></text>
+    <text id="_12.566_" data-name="$12.566 " transform="translate(822 5815.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="92.071" y="17">$12.566 </tspan></text>
+    <text id="_8.955.336_" data-name="$8.955.336  " transform="translate(821 5872.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="64.772" y="17" xml:space="preserve">$8.955.336  </tspan></text>
+    <text id="_10.307.650_" data-name="$10.307.650  " transform="translate(821 5931.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="55.28" y="17" xml:space="preserve">$10.307.650  </tspan></text>
+    <line id="Línea_416" data-name="Línea 416" y2="232" transform="translate(853.759 5754.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+  </g>
+</svg>

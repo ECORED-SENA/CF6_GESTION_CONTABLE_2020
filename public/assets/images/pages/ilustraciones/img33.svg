@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="573" height="379.502" viewBox="0 0 573 379.502">
+  <g id="Grupo_29611" data-name="Grupo 29611" transform="translate(-434 -4677)">
+    <rect id="Rectángulo_26736" data-name="Rectángulo 26736" width="573" height="29" transform="translate(434 4705)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26735" data-name="Rectángulo 26735" width="573" height="29" transform="translate(434 4734)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26733" data-name="Rectángulo 26733" width="573" height="29" transform="translate(434 4792)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26786" data-name="Rectángulo 26786" width="573" height="29" transform="translate(434 4851)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26788" data-name="Rectángulo 26788" width="573" height="29" transform="translate(434 4910)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26790" data-name="Rectángulo 26790" width="573" height="29" transform="translate(434 4968)" fill="#e8a280"/>
+    <rect id="Rectángulo_26792" data-name="Rectángulo 26792" width="573" height="29" transform="translate(434 5027)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26737" data-name="Rectángulo 26737" width="573" height="29" transform="translate(434 4677)" fill="#e8a280"/>
+    <rect id="Rectángulo_26734" data-name="Rectángulo 26734" width="573" height="29" transform="translate(434 4763)" fill="#e8a280"/>
+    <rect id="Rectángulo_26732" data-name="Rectángulo 26732" width="573" height="29" transform="translate(434 4821)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26785" data-name="Rectángulo 26785" width="573" height="29" transform="translate(434 4880)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26787" data-name="Rectángulo 26787" width="573" height="29" transform="translate(434 4939)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26789" data-name="Rectángulo 26789" width="573" height="29" transform="translate(434 4997)" fill="#f3c7b2"/>
+    <text id="Saldo_según_libro_auxiliar_de_bancos" data-name="Saldo según libro auxiliar de bancos" transform="translate(445 4707.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo según libro auxiliar de bancos</tspan></text>
+    <text id="Saldo_según_extracto_bancario" data-name="Saldo según extracto bancario" transform="translate(445 4736.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo según extracto </tspan></text>
+    <text id="Nota_débito_GMF" data-name="Nota débito GMF" transform="translate(445 4796.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota débito GMF</tspan></text>
+    <text id="Nota_débito_chequera" data-name="Nota débito chequera" transform="translate(445 4855.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota débito chequera</tspan></text>
+    <text id="Nota_débito_timbre_chequera" data-name="Nota débito timbre chequera" transform="translate(445 4914.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota débito timbre chequera</tspan></text>
+    <text id="Valores_no_registrados_en_el_extracto" data-name="Valores no registrados en el extracto" transform="translate(445 4972.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Valores no registrados en el extracto</tspan></text>
+    <text id="Cheques_pendientes_de_cobro" data-name="Cheques pendientes de cobro" transform="translate(445 5031.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Cheques pendientes de </tspan></text>
+    <text id="Concepto" transform="translate(459 4682.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="140.846" y="17">Concepto</tspan></text>
+    <text id="Valores_no_registrados_en_libros" data-name="Valores no registrados en libros" transform="translate(443 4767.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Valores no registrados en libros</tspan></text>
+    <text id="Nota_débito_comisiones_bancarias" data-name="Nota débito comisiones bancarias" transform="translate(443 4825.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota débito comisiones bancarias</tspan></text>
+    <text id="Nota_débito_IVA_chequera" data-name="Nota débito IVA chequera" transform="translate(443 4884.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota débito IVA chequera</tspan></text>
+    <text id="Nota_crédito_rendimientos_financieros" data-name="Nota crédito rendimientos financieros" transform="translate(443 4943.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nota crédito rendimientos </tspan></text>
+    <text id="Consignaciones_en_tránsito" data-name="Consignaciones en tránsito" transform="translate(443 5001.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Consignaciones en tránsito</tspan></text>
+    <text id="_1.170.122_" data-name="$1.170.122 " transform="translate(822 4707.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="66.029" y="17">$1.170.122 </tspan></text>
+    <text id="_115.220_" data-name="$115.220  " transform="translate(821 4796.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17" xml:space="preserve">$115.220  </tspan></text>
+    <text id="_255.000_" data-name="$255.000  " transform="translate(821 4855.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17" xml:space="preserve">$255.000  </tspan></text>
+    <text id="_5.100_" data-name="$5.100  " transform="translate(821 4914.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="102.82" y="17" xml:space="preserve">$5.100  </tspan></text>
+    <text id="_10.307.650_" data-name="$10.307.650  " transform="translate(821 5031.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="55.28" y="17" xml:space="preserve">$10.307.650  </tspan></text>
+    <text id="_8.955.336_" data-name="$8.955.336 " transform="translate(822 4738.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="64.772" y="17">$8.955.336 </tspan></text>
+    <text id="_155.896_" data-name="$155.896 " transform="translate(821 4825.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="81.322" y="17">$155.896 </tspan></text>
+    <text id="_48.450_" data-name="$48.450 " transform="translate(821 4884.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="92.071" y="17">$48.450 </tspan></text>
+    <text id="_12.566_" data-name="$12.566 " transform="translate(821 4943.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="92.071" y="17">$12.566 </tspan></text>
+    <text id="_1.955.336_" data-name="$1.955.336 " transform="translate(821 5001.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="64.772" y="17">$1.955.336 </tspan></text>
+    <text id="Valor" transform="translate(854 4682.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="54.075" y="17">Valor</tspan></text>
+    <line id="Línea_371" data-name="Línea 371" x2="0.741" y2="379" transform="translate(853.759 4677.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+  </g>
+</svg>

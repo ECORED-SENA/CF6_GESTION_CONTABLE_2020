@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="573" height="204.5" viewBox="0 0 573 204.5">
+  <g id="Grupo_29609" data-name="Grupo 29609" transform="translate(-434 -12959)">
+    <g id="Grupo_29535" data-name="Grupo 29535">
+      <rect id="Rectángulo_26736" data-name="Rectángulo 26736" width="573" height="29" transform="translate(434 12987)" fill="#f3c7b2"/>
+      <rect id="Rectángulo_26735" data-name="Rectángulo 26735" width="573" height="29" transform="translate(434 13016)" fill="#f4dbcf"/>
+      <rect id="Rectángulo_26733" data-name="Rectángulo 26733" width="573" height="29" transform="translate(434 13074)" fill="#f4dbcf"/>
+      <rect id="Rectángulo_26731" data-name="Rectángulo 26731" width="573" height="29" transform="translate(434 13132)" fill="#e8a280"/>
+      <rect id="Rectángulo_26737" data-name="Rectángulo 26737" width="573" height="29" transform="translate(434 12959)" fill="#e8a280"/>
+      <rect id="Rectángulo_26734" data-name="Rectángulo 26734" width="573" height="29" transform="translate(434 13045)" fill="#f3c7b2"/>
+      <rect id="Rectángulo_26732" data-name="Rectángulo 26732" width="573" height="29" transform="translate(434 13103)" fill="#f3c7b2"/>
+      <text id="Elementos_de_aseo" data-name="Elementos de aseo" transform="translate(445 12989.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Elementos de aseo</tspan></text>
+      <text id="Papelería" transform="translate(445 13018.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Papelería</tspan></text>
+      <text id="Almuerzos_" data-name="Almuerzos " transform="translate(445 13078.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Almuerzos </tspan></text>
+      <text id="TOTAL_" data-name="TOTAL " transform="translate(445 13136.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">TOTAL </tspan></text>
+      <text id="Concepto" transform="translate(459 12964.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="140.846" y="17">Concepto</tspan></text>
+      <text id="Transporte" transform="translate(443 13049.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Transporte</tspan></text>
+      <text id="Gasolina" transform="translate(443 13107.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Gasolina</tspan></text>
+      <text id="_120.000" data-name="$120.000" transform="translate(822 12989.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="82.579" y="17">$120.000</tspan></text>
+      <text id="_80.000_" data-name="$80.000 " transform="translate(821 13078.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="93.328" y="17">$80.000 </tspan></text>
+      <text id="_80.000" data-name="$80.000" transform="translate(822 13020.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="93.328" y="17">$80.000</tspan></text>
+      <text id="_50.000" data-name="$50.000" transform="translate(821 13107.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="93.328" y="17">$50.000</tspan></text>
+      <text id="_150.000" data-name="$150.000" transform="translate(822 13048.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="82.579" y="17">$150.000</tspan></text>
+      <text id="_480.000" data-name="$480.000" transform="translate(821 13136.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="82.579" y="17">$480.000</tspan></text>
+      <text id="Valor" transform="translate(854 12964.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="54.075" y="17">Valor</tspan></text>
+      <line id="Línea_371" data-name="Línea 371" y2="202" transform="translate(853.759 12959.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    </g>
+  </g>
+</svg>

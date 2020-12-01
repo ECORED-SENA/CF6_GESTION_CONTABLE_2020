@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="574" height="117.5" viewBox="0 0 574 117.5">
+  <g id="Grupo_29610" data-name="Grupo 29610" transform="translate(-434 -13284)">
+    <g id="Grupo_29542" data-name="Grupo 29542">
+      <rect id="Rectángulo_26736" data-name="Rectángulo 26736" width="573" height="29" transform="translate(434 13312)" fill="#f3c7b2"/>
+      <rect id="Rectángulo_26735" data-name="Rectángulo 26735" width="573" height="29" transform="translate(434 13341)" fill="#f4dbcf"/>
+      <rect id="Rectángulo_26731" data-name="Rectángulo 26731" width="573" height="29" transform="translate(434 13370)" fill="#e8a280"/>
+      <rect id="Rectángulo_26737" data-name="Rectángulo 26737" width="573" height="29" transform="translate(434 13284)" fill="#e8a280"/>
+      <text id="Caja_menor" data-name="Caja menor" transform="translate(445 13314.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Caja menor</tspan></text>
+      <text id="Bancos" transform="translate(445 13343.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Bancos</tspan></text>
+      <text id="TOTAL_" data-name="TOTAL " transform="translate(445 13374.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">TOTAL </tspan></text>
+      <text id="Cuenta" transform="translate(445 13289.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="91.333" y="17">Cuenta</tspan></text>
+      <text id="Debe" transform="translate(703 13289.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="52.236" y="17">Debe</tspan></text>
+      <text id="_500.000" data-name="$ 500.000" transform="translate(659 13317.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="77.903" y="17">$ 500.000</tspan></text>
+      <text id="_500.000-2" data-name="$ 500.000" transform="translate(823 13345.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="77.903" y="17">$ 500.000</tspan></text>
+      <text id="_500.000-3" data-name="$ 500.000" transform="translate(822 13374.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="77.903" y="17">$ 500.000</tspan></text>
+      <text id="_500.000-4" data-name="$ 500.000" transform="translate(658 13374.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="77.903" y="17">$ 500.000</tspan></text>
+      <text id="Haber" transform="translate(855 13289.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="50.203" y="17">Haber</tspan></text>
+      <line id="Línea_371" data-name="Línea 371" y2="114" transform="translate(852.759 13284.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+      <line id="Línea_372" data-name="Línea 372" y2="114" transform="translate(702.759 13284.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    </g>
+  </g>
+</svg>

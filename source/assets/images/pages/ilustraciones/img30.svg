@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="788" height="974" viewBox="0 0 788 974">
+  <g id="Grupo_29609" data-name="Grupo 29609" transform="translate(-326 -2599)">
+    <g id="Grupo_29561" data-name="Grupo 29561" transform="translate(0 -439)">
+      <g id="Rectángulo_26730" data-name="Rectángulo 26730" transform="translate(326 3038)" fill="none" stroke="#bfbaba" stroke-width="1">
+        <rect width="788" height="974" stroke="none"/>
+        <rect x="0.5" y="0.5" width="787" height="973" fill="none"/>
+      </g>
+      <g id="Grupo_29560" data-name="Grupo 29560" transform="translate(77)">
+        <g id="Rectángulo_26759" data-name="Rectángulo 26759" transform="translate(280.015 3336)" fill="none" stroke="#e8a280" stroke-width="1">
+          <rect width="729.759" height="62" stroke="none"/>
+          <rect x="0.5" y="0.5" width="728.759" height="61" fill="none"/>
+        </g>
+        <g id="Rectángulo_26760" data-name="Rectángulo 26760" transform="translate(280.015 3513)" fill="none" stroke="#e8a280" stroke-width="1">
+          <rect width="729.759" height="62" stroke="none"/>
+          <rect x="0.5" y="0.5" width="728.759" height="61" fill="none"/>
+        </g>
+        <g id="Rectángulo_26761" data-name="Rectángulo 26761" transform="translate(280.015 3691)" fill="none" stroke="#e8a280" stroke-width="1">
+          <rect width="729.759" height="62" stroke="none"/>
+          <rect x="0.5" y="0.5" width="728.759" height="61" fill="none"/>
+        </g>
+        <rect id="Rectángulo_26758" data-name="Rectángulo 26758" width="729.759" height="50" transform="translate(280.015 3290)" fill="#e8a280"/>
+        <rect id="Rectángulo_26762" data-name="Rectángulo 26762" width="729.759" height="50" transform="translate(280.015 3931)" fill="#e8a280"/>
+        <text id="Total_saldo_según_extractó_bancario" data-name="Total saldo según extractó bancario" transform="translate(322.015 3305.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="104.946" y="17">Total saldo según extractó bancario</tspan></text>
+        <text id="Total_saldo_según_libros_a_Febrero_2020" data-name="Total, saldo según libros a Febrero 2020" transform="translate(288.015 3946.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="24.601" y="17">Total, saldo según libros a Febrero 2020</tspan></text>
+        <text id="Consignaciones_que_aumentan_el_valor_del_saldo_y_cheques_pendientes_de_cobro_que_disminuyen_el_valor_del_saldo." data-name="Consignaciones que aumentan el valor del saldo y cheques pendientes de cobro que disminuyen el valor del saldo." transform="translate(291.015 3347.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Consignaciones que aumentan el valor del saldo y cheques </tspan><tspan x="0" y="37">pendientes de cobro que disminuyen el valor del saldo.</tspan></text>
+        <text id="NC_bancarias_que_figuran_en_los_extractos_aumentando_el_saldo_en_extracto_pero_se_hallan_pendientes_de_registrar_en_la_contabilidad._" data-name="NC bancarias que figuran en los extractos aumentando el saldo en extracto, pero se hallan pendientes de registrar en la contabilidad. " transform="translate(291.015 3521.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">NC bancarias que figuran en los extractos aumentando el </tspan><tspan x="0" y="41">saldo en extracto, pero se hallan pendientes de registrar en la </tspan></text>
+        <text id="ND_bancarios_que_figuran_en_los_extractos_disminuyen_el_saldo_en_extracto_pero_se_hallan_pendientes_de_registrar_en_la_contabilidad._" data-name="ND bancarios que figuran en los extractos disminuyen el saldo en extracto, pero se hallan pendientes de registrar en la contabilidad.  " transform="translate(291.015 3699.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">ND bancarios que figuran en los extractos disminuyen el saldo </tspan><tspan x="0" y="41">en extracto, pero se hallan pendientes de registrar en la </tspan></text>
+        <rect id="Rectángulo_26704" data-name="Rectángulo 26704" width="729.759" height="29" transform="translate(280.015 3061)" fill="#f3c7b2"/>
+        <rect id="Rectángulo_26755" data-name="Rectángulo 26755" width="729.759" height="29" transform="translate(280.015 3178)" fill="#f3c7b2"/>
+        <rect id="Rectángulo_26802" data-name="Rectángulo 26802" width="729.759" height="29" transform="translate(280.015 3207)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26706" data-name="Rectángulo 26706" width="729.759" height="29" transform="translate(280.015 3090)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26756" data-name="Rectángulo 26756" width="729.759" height="29" transform="translate(280.015 3234)" fill="#f3c7b2"/>
+        <rect id="Rectángulo_26754" data-name="Rectángulo 26754" width="729.759" height="29" transform="translate(280.015 3149)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26705" data-name="Rectángulo 26705" width="729.759" height="29" transform="translate(280.015 3119)" fill="#f3c7b2"/>
+        <rect id="Rectángulo_26757" data-name="Rectángulo 26757" width="729.759" height="29" transform="translate(280.015 3263)" fill="#f4dbcf"/>
+        <text id="Empresa:" transform="translate(291.015 3066.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Empresa:</tspan></text>
+        <text id="Tipo_de_cuenta:_" data-name="Tipo de cuenta: " transform="translate(291.015 3183.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Tipo de cuenta: </tspan></text>
+        <text id="_corriente_" data-name=" corriente   " transform="translate(291.015 3212.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17" xml:space="preserve"> corriente   </tspan></text>
+        <text id="NIT:_" data-name="NIT: " transform="translate(291.015 3094.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nit: </tspan></text>
+        <text id="Número_de_la_cuenta:" data-name="Número de la cuenta:" transform="translate(291.015 3238.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Número de la cuenta:</tspan></text>
+        <text id="Ciudad:" transform="translate(291.015 3153.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Ciudad:</tspan></text>
+        <text id="Banco_donde_posee_la_cuenta:_" data-name="Banco donde posee la cuenta: " transform="translate(291.015 3121.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Banco donde posee la cuenta: </tspan></text>
+        <text id="Fecha_de_corte_en_la_que_se_efectúa_la_conciliación:_" data-name="Fecha de corte en la que se efectúa la conciliación: " transform="translate(291.015 3265.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha de corte en la que se efectúa la conciliación: </tspan></text>
+        <rect id="Rectángulo_26713" data-name="Rectángulo 26713" width="729.759" height="87" transform="translate(280.015 3604)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26714" data-name="Rectángulo 26714" width="729.759" height="29" transform="translate(280.015 3575)" fill="#f3c7b2"/>
+        <text id="Concepto_" data-name="Concepto " transform="translate(291.015 3578.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="85.846" y="17">Concepto </tspan></text>
+        <text id="Fecha" transform="translate(493.015 3578.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="103.433" y="17">Fecha</tspan></text>
+        <text id="Valor" transform="translate(728.015 3578.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="33.075" y="17">Valor</tspan></text>
+        <line id="Línea_366" data-name="Línea 366" y2="110.79" transform="translate(544.774 3580.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_367" data-name="Línea 367" y2="116.79" transform="translate(695.774 3574.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_422" data-name="Línea 422" y2="116.79" transform="translate(852.774 3574.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_378" data-name="Línea 378" x1="732.774" transform="translate(277 3629.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_379" data-name="Línea 379" x1="732.774" transform="translate(277 3659.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <rect id="Rectángulo_26713-2" data-name="Rectángulo 26713" width="729.759" height="87" transform="translate(280.015 3427)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26714-2" data-name="Rectángulo 26714" width="729.759" height="29" transform="translate(280.015 3398)" fill="#f3c7b2"/>
+        <text id="Concepto_2" data-name="Concepto " transform="translate(291.015 3401.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="85.846" y="17">Concepto </tspan></text>
+        <text id="Fecha-2" data-name="Fecha" transform="translate(493.015 3401.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="103.433" y="17">Fecha</tspan></text>
+        <text id="Valor-2" data-name="Valor" transform="translate(728.015 3401.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="33.075" y="17">Valor</tspan></text>
+        <line id="Línea_366-2" data-name="Línea 366" y2="110.79" transform="translate(544.774 3403.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_367-2" data-name="Línea 367" y2="116.79" transform="translate(695.774 3397.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_421" data-name="Línea 421" y2="116.79" transform="translate(852.774 3397.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_417" data-name="Línea 417" y2="40.29" transform="translate(852.774 3296.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_418" data-name="Línea 418" y2="56.29" transform="translate(852.774 3341.21)" fill="none" stroke="#e8a280" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_419" data-name="Línea 419" y2="56.29" transform="translate(852.774 3519.21)" fill="none" stroke="#e8a280" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_420" data-name="Línea 420" y2="56.29" transform="translate(852.774 3692.21)" fill="none" stroke="#e8a280" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_378-2" data-name="Línea 378" x1="732.774" transform="translate(277 3452.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_379-2" data-name="Línea 379" x1="732.774" transform="translate(277 3482.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <rect id="Rectángulo_26713-3" data-name="Rectángulo 26713" width="729.759" height="148" transform="translate(280.015 3782)" fill="#f4dbcf"/>
+        <rect id="Rectángulo_26714-3" data-name="Rectángulo 26714" width="729.759" height="29" transform="translate(280.015 3753)" fill="#f3c7b2"/>
+        <text id="Concepto_3" data-name="Concepto " transform="translate(291.015 3756.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="85.846" y="17">Concepto </tspan></text>
+        <text id="Fecha-3" data-name="Fecha" transform="translate(493.015 3756.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="103.433" y="17">Fecha</tspan></text>
+        <text id="Valor-3" data-name="Valor" transform="translate(728.015 3756.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="33.075" y="17">Valor</tspan></text>
+        <line id="Línea_366-3" data-name="Línea 366" y2="171.79" transform="translate(544.774 3758.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_367-3" data-name="Línea 367" y2="177.79" transform="translate(695.774 3752.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_423" data-name="Línea 423" y2="177.79" transform="translate(852.774 3752.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_426" data-name="Línea 426" y2="50.5" transform="translate(852.774 3930.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_427" data-name="Línea 427" y2="50.5" transform="translate(695.774 3930.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_378-3" data-name="Línea 378" x1="732.774" transform="translate(277 3807.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_379-3" data-name="Línea 379" x1="732.774" transform="translate(277 3837.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_424" data-name="Línea 424" x1="732.774" transform="translate(277 3867.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+        <line id="Línea_425" data-name="Línea 425" x1="732.774" transform="translate(277 3897.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+      </g>
+    </g>
+  </g>
+</svg>
