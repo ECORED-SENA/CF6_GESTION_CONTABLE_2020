@@ -1,103 +1,101 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="647" height="1388" viewBox="0 0 647 1388">
-  <g id="Grupo_29609" data-name="Grupo 29609" transform="translate(-397 -11259)">
-    <g id="Grupo_29543" data-name="Grupo 29543">
-      <rect id="Rectángulo_26707" data-name="Rectángulo 26707" width="573" height="29" transform="translate(434 11597)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26714" data-name="Rectángulo 26714" width="573" height="29" transform="translate(434 11785)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26724" data-name="Rectángulo 26724" width="573" height="29" transform="translate(434 12127)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26711" data-name="Rectángulo 26711" width="573" height="29" transform="translate(434 11704)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26708" data-name="Rectángulo 26708" width="573" height="29" transform="translate(434 11626)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26713" data-name="Rectángulo 26713" width="573" height="29" transform="translate(434 11814)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26725" data-name="Rectángulo 26725" width="573" height="29" transform="translate(434 12156)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26716" data-name="Rectángulo 26716" width="573" height="29" transform="translate(434 11872)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26727" data-name="Rectángulo 26727" width="573" height="29" transform="translate(434 12214)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26718" data-name="Rectángulo 26718" width="573" height="29" transform="translate(434 11930)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26729" data-name="Rectángulo 26729" width="573" height="29" transform="translate(434 12272)" fill="#e8a280"/>
-      <rect id="Rectángulo_26720" data-name="Rectángulo 26720" width="573" height="29" transform="translate(434 11988)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26722" data-name="Rectángulo 26722" width="573" height="29" transform="translate(434 12046)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26710" data-name="Rectángulo 26710" width="573" height="29" transform="translate(434 11733)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26709" data-name="Rectángulo 26709" width="573" height="29" transform="translate(434 11655)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26712" data-name="Rectángulo 26712" width="573" height="29" transform="translate(434 11843)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26726" data-name="Rectángulo 26726" width="573" height="29" transform="translate(434 12185)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26715" data-name="Rectángulo 26715" width="573" height="29" transform="translate(434 11901)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26728" data-name="Rectángulo 26728" width="573" height="29" transform="translate(434 12243)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26717" data-name="Rectángulo 26717" width="573" height="29" transform="translate(434 11959)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26719" data-name="Rectángulo 26719" width="573" height="29" transform="translate(434 12017)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26723" data-name="Rectángulo 26723" width="573" height="29" transform="translate(434 12075)" fill="#f3c7b2"/>
-      <text id="CERTIFICO:_que_el_efectivo_y_justificantes_de_caja_mencionados_fueron_verificados_en_mi_presencia_y_devueltos._No_existiendo_otros_fondos_valores_o_documentos_en_poder_que_no_hayan_sido_mostrados_en_el_arqueo." data-name="CERTIFICO: que el efectivo y justificantes de caja mencionados, fueron verificados en mi presencia y devueltos. No existiendo otros fondos, valores o documentos en poder que no hayan sido mostrados en el arqueo." transform="translate(431 12333.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">CERTIFICO: que el efectivo y justificantes de caja mencionados, </tspan><tspan x="0" y="41">fueron verificados en mi presencia y devueltos. No existiendo </tspan><tspan x="0" y="65">otros fondos, valores o documentos en poder que no hayan sido </tspan><tspan x="0" y="89">mostrados en el arqueo.</tspan></text>
-      <text id="FIRMA_RESPONSABLE_" data-name="FIRMA RESPONSABLE	 " transform="translate(473 12591.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17" xml:space="preserve">Firma responsable	 </tspan></text>
-      <text id="FIRMA_supervisor" data-name="FIRMA supervisor" transform="translate(813 12591.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Firma supervisor</tspan></text>
-      <text id="Observaciones:_" data-name="Observaciones:	 " transform="translate(431 12470.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17" xml:space="preserve">Observaciones:	 </tspan></text>
-      <text id="LOGO_DE_LA_EMPRESA_" data-name="LOGO DE LA
+  <g id="Grupo_29543" data-name="Grupo 29543" transform="translate(-397 -11259)">
+    <rect id="Rectángulo_26707" data-name="Rectángulo 26707" width="573" height="29" transform="translate(434 11597)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26714" data-name="Rectángulo 26714" width="573" height="29" transform="translate(434 11785)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26724" data-name="Rectángulo 26724" width="573" height="29" transform="translate(434 12127)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26711" data-name="Rectángulo 26711" width="573" height="29" transform="translate(434 11704)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26708" data-name="Rectángulo 26708" width="573" height="29" transform="translate(434 11626)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26713" data-name="Rectángulo 26713" width="573" height="29" transform="translate(434 11814)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26725" data-name="Rectángulo 26725" width="573" height="29" transform="translate(434 12156)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26716" data-name="Rectángulo 26716" width="573" height="29" transform="translate(434 11872)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26727" data-name="Rectángulo 26727" width="573" height="29" transform="translate(434 12214)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26718" data-name="Rectángulo 26718" width="573" height="29" transform="translate(434 11930)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26729" data-name="Rectángulo 26729" width="573" height="29" transform="translate(434 12272)" fill="#e8a280"/>
+    <rect id="Rectángulo_26720" data-name="Rectángulo 26720" width="573" height="29" transform="translate(434 11988)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26722" data-name="Rectángulo 26722" width="573" height="29" transform="translate(434 12046)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26710" data-name="Rectángulo 26710" width="573" height="29" transform="translate(434 11733)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26709" data-name="Rectángulo 26709" width="573" height="29" transform="translate(434 11655)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26712" data-name="Rectángulo 26712" width="573" height="29" transform="translate(434 11843)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26726" data-name="Rectángulo 26726" width="573" height="29" transform="translate(434 12185)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26715" data-name="Rectángulo 26715" width="573" height="29" transform="translate(434 11901)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26728" data-name="Rectángulo 26728" width="573" height="29" transform="translate(434 12243)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26717" data-name="Rectángulo 26717" width="573" height="29" transform="translate(434 11959)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26719" data-name="Rectángulo 26719" width="573" height="29" transform="translate(434 12017)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26723" data-name="Rectángulo 26723" width="573" height="29" transform="translate(434 12075)" fill="#f3c7b2"/>
+    <text id="CERTIFICO:_que_el_efectivo_y_justificantes_de_caja_mencionados_fueron_verificados_en_mi_presencia_y_devueltos._No_existiendo_otros_fondos_valores_o_documentos_en_poder_que_no_hayan_sido_mostrados_en_el_arqueo." data-name="CERTIFICO: que el efectivo y justificantes de caja mencionados, fueron verificados en mi presencia y devueltos. No existiendo otros fondos, valores o documentos en poder que no hayan sido mostrados en el arqueo." transform="translate(431 12333.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">CERTIFICO: que el efectivo y justificantes de caja mencionados, </tspan><tspan x="0" y="41">fueron verificados en mi presencia y devueltos. No existiendo </tspan><tspan x="0" y="65">otros fondos, valores o documentos en poder que no hayan sido </tspan><tspan x="0" y="89">mostrados en el arqueo.</tspan></text>
+    <text id="FIRMA_RESPONSABLE_" data-name="FIRMA RESPONSABLE	 " transform="translate(473 12591.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17" xml:space="preserve">Firma responsable	 </tspan></text>
+    <text id="FIRMA_supervisor" data-name="FIRMA supervisor" transform="translate(813 12591.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Firma supervisor</tspan></text>
+    <text id="Observaciones:_" data-name="Observaciones:	 " transform="translate(431 12470.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17" xml:space="preserve">Observaciones:	 </tspan></text>
+    <text id="LOGO_DE_LA_EMPRESA_" data-name="LOGO DE LA
 EMPRESA
 " transform="translate(434 11378.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Logo de la</tspan><tspan x="0" y="41">empresa</tspan></text>
-      <text id="Arqueo_Caja_Menor" data-name="Arqueo Caja Menor" transform="translate(535 11275.5)" fill="#359ff3" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="100.546" y="17">Arqueo Caja Menor</tspan></text>
-      <text id="ACTA_DE_ARQUEO_CAJA" data-name="ACTA DE ARQUEO CAJA" transform="translate(535 11554.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="98.836" y="17">Acta de arqueo caja</tspan></text>
-      <text id="Fecha_de_elaboración:_" data-name="Fecha de elaboración: " transform="translate(434 11317.5)" fill="#fb0213" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha de </tspan><tspan x="0" y="41">elaboración: </tspan></text>
-      <text id="NOMBRE_RESPONSABLE:" data-name="NOMBRE RESPONSABLE:" transform="translate(445 11599.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nombre responsable:</tspan></text>
-      <text id="BILLETES_DE_50.000" data-name="BILLETES DE $50.000" transform="translate(445 11788.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $50.000</tspan></text>
-      <text id="OTROS_FONDOS" data-name="OTROS FONDOS" transform="translate(445 12129.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Otros fondos</tspan></text>
-      <text id="EFECTIVO" transform="translate(445 11706.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Efectivo</tspan></text>
-      <text id="FECHA_Y_HORA_DE_REALIZACIÓN:" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(445 11628.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha y hora de realización:</tspan></text>
-      <text id="BILLETES_DE_20.000" data-name="BILLETES DE $20.000" transform="translate(445 11817.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $20.000</tspan></text>
-      <text id="VALES" transform="translate(445 12158.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Vales</tspan></text>
-      <text id="BILLETES_DE_5.000" data-name="BILLETES DE $5.000" transform="translate(445 11875.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $5.000</tspan></text>
-      <text id="ANTICIPOS" transform="translate(445 12216.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Anticipos</tspan></text>
-      <text id="BILLETES_DE_1.000" data-name="BILLETES DE $1.000" transform="translate(445 11933.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $1.000</tspan></text>
-      <text id="TOTAL_SALDO_CAJA" data-name="TOTAL SALDO CAJA" transform="translate(445 12274.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">TOTAL SALDO CAJA</tspan></text>
-      <text id="MONEDAS_DE_500" data-name="MONEDAS DE $500" transform="translate(445 11991.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $500</tspan></text>
-      <text id="MONEDAS_DE_100" data-name="MONEDAS DE $100" transform="translate(444 12048.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $100</tspan></text>
-      <text id="FECHA_Y_HORA_DE_REALIZACIÓN:-2" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(445 11735.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha y hora de realización:</tspan></text>
-      <text id="SALDO_SEGÚN_LIBRO_DE_CAJA:" data-name="SALDO SEGÚN LIBRO DE CAJA:" transform="translate(443 11661.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo según libro de caja:</tspan></text>
-      <text id="BILLETES_DE_10.000" data-name="BILLETES DE $10.000" transform="translate(443 11849.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $10.000</tspan></text>
-      <text id="FACTURAS" transform="translate(443 12191.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Facturas</tspan></text>
-      <text id="BILLETES_DE_2.000" data-name="BILLETES DE $2.000" transform="translate(443 11907.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $2.000</tspan></text>
-      <text id="OTROS_FONDOS-2" data-name="OTROS FONDOS" transform="translate(443 12249.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Otros fondos</tspan></text>
-      <text id="MONEDAS_DE_1.000" data-name="MONEDAS DE $1.000" transform="translate(443 11965.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $1.000</tspan></text>
-      <text id="MONEDAS_DE_200" data-name="MONEDAS DE $200" transform="translate(443 12022.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $200</tspan></text>
-      <text id="MONEDAS_DE_500-2" data-name="MONEDAS DE $500" transform="translate(443 12080.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $500</tspan></text>
-      <text id="XXXXXXX" transform="translate(803 11599.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">XXXXXXX</tspan></text>
-      <text id="_0_00" data-name="0,00" transform="translate(803 11788.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-2" data-name="0,00" transform="translate(803 12129.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
-      <text id="_0_00-3" data-name="0,00" transform="translate(802 11876.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-4" data-name="0,00" transform="translate(802 12218.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
-      <text id="_0_00-5" data-name="0,00" transform="translate(802 11963.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-6" data-name="0,00" transform="translate(803 11817.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-7" data-name="0,00" transform="translate(803 12158.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
-      <text id="_0_00-8" data-name="0,00" transform="translate(802 11905.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-9" data-name="0,00" transform="translate(802 12247.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
-      <text id="_0_00-10" data-name="0,00" transform="translate(802 11992.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-11" data-name="0,00" transform="translate(803 11846.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-12" data-name="0,00" transform="translate(803 12188.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
-      <text id="_0_00-13" data-name="0,00" transform="translate(802 11935.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0" data-name="0" transform="translate(802 12277.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="89.625" y="17">0</tspan></text>
-      <text id="_0_00-14" data-name="0,00" transform="translate(802 12022.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-15" data-name="0,00" transform="translate(802 12079.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_0_00-16" data-name="0,00" transform="translate(802 12050.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
-      <text id="_" data-name="$" transform="translate(803 11706.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">$</tspan></text>
-      <text id="DIA_MES_AÑO" data-name="DIA/MES/AÑO" transform="translate(786 11628.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">DIA/MES/AÑO</tspan></text>
-      <text id="UNIDADES" transform="translate(701 11737.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="34.022" y="17">Unidades</tspan></text>
-      <text id="Total" transform="translate(855 11737.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="54.013" y="17">Total</tspan></text>
-      <text id="_0.000.000_00" data-name="0.000.000,00" transform="translate(778 11661.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="16.132" y="17">0.000.000,00</tspan></text>
-      <line id="Línea_42" data-name="Línea 42" y2="82.29" transform="translate(698.759 11602.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_366" data-name="Línea 366" y2="314.29" transform="translate(698.759 11790.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_368" data-name="Línea 368" y2="169.29" transform="translate(698.759 12132.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_364" data-name="Línea 364" y2="59.29" transform="translate(698.759 11703.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_365" data-name="Línea 365" y2="59.29" transform="translate(849.759 11703.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_367" data-name="Línea 367" y2="320.29" transform="translate(849.759 11784.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <rect id="Rectángulo_26704" data-name="Rectángulo 26704" width="573" height="29" transform="translate(434 11439)" fill="#f3c7b2"/>
-      <rect id="Rectángulo_26706" data-name="Rectángulo 26706" width="573" height="29" transform="translate(434 11468)" fill="#f4dbcf"/>
-      <rect id="Rectángulo_26705" data-name="Rectángulo 26705" width="573" height="29" transform="translate(434 11497)" fill="#f3c7b2"/>
-      <text id="NOMBRE_DE_LA_EMPRESA:_" data-name="NOMBRE DE LA EMPRESA: " transform="translate(445 11444.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nombre de la empresa: </tspan></text>
-      <text id="TELÉFONO:" transform="translate(805 11472.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Teléfono:</tspan></text>
-      <text id="NIT_DE_LA_EMPRESA:" data-name="NIT DE LA EMPRESA:" transform="translate(445 11472.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nit de la empresa:</tspan></text>
-      <text id="DIRECCIÓN_DE_LA_EMPRESA:" data-name="DIRECCIÓN DE LA EMPRESA:" transform="translate(445 11499.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Dirección de la empresa:</tspan></text>
-      <line id="Línea_44" data-name="Línea 44" y2="87" transform="translate(698.761 11439.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
-      <line id="Línea_369" data-name="Línea 369" x2="250" transform="translate(431.5 12584.5)" fill="none" stroke="#00223d" stroke-width="1"/>
-      <line id="Línea_370" data-name="Línea 370" x2="250" transform="translate(757.5 12584.5)" fill="none" stroke="#00223d" stroke-width="1"/>
-      <g id="Rectángulo_26730" data-name="Rectángulo 26730" transform="translate(397 11259)" fill="none" stroke="#bfbaba" stroke-width="1">
-        <rect width="647" height="1388" stroke="none"/>
-        <rect x="0.5" y="0.5" width="646" height="1387" fill="none"/>
-      </g>
+    <text id="Arqueo_Caja_Menor" data-name="Arqueo Caja Menor" transform="translate(535 11275.5)" fill="#359ff3" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="100.546" y="17">Arqueo Caja Menor</tspan></text>
+    <text id="ACTA_DE_ARQUEO_CAJA" data-name="ACTA DE ARQUEO CAJA" transform="translate(535 11554.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="98.836" y="17">Acta de arqueo caja</tspan></text>
+    <text id="Fecha_de_elaboración:_" data-name="Fecha de elaboración: " transform="translate(434 11317.5)" fill="#fb0213" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha de </tspan><tspan x="0" y="41">elaboración: </tspan></text>
+    <text id="NOMBRE_RESPONSABLE:" data-name="NOMBRE RESPONSABLE:" transform="translate(445 11599.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nombre responsable:</tspan></text>
+    <text id="BILLETES_DE_50.000" data-name="BILLETES DE $50.000" transform="translate(445 11788.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $50.000</tspan></text>
+    <text id="OTROS_FONDOS" data-name="OTROS FONDOS" transform="translate(445 12129.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Otros fondos</tspan></text>
+    <text id="EFECTIVO" transform="translate(445 11706.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Efectivo</tspan></text>
+    <text id="FECHA_Y_HORA_DE_REALIZACIÓN:" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(445 11628.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha y hora de realización:</tspan></text>
+    <text id="BILLETES_DE_20.000" data-name="BILLETES DE $20.000" transform="translate(445 11817.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $20.000</tspan></text>
+    <text id="VALES" transform="translate(445 12158.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Vales</tspan></text>
+    <text id="BILLETES_DE_5.000" data-name="BILLETES DE $5.000" transform="translate(445 11875.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $5.000</tspan></text>
+    <text id="ANTICIPOS" transform="translate(445 12216.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Anticipos</tspan></text>
+    <text id="BILLETES_DE_1.000" data-name="BILLETES DE $1.000" transform="translate(445 11933.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $1.000</tspan></text>
+    <text id="TOTAL_SALDO_CAJA" data-name="TOTAL SALDO CAJA" transform="translate(445 12274.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">TOTAL SALDO CAJA</tspan></text>
+    <text id="MONEDAS_DE_500" data-name="MONEDAS DE $500" transform="translate(445 11991.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $500</tspan></text>
+    <text id="MONEDAS_DE_100" data-name="MONEDAS DE $100" transform="translate(444 12048.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $100</tspan></text>
+    <text id="FECHA_Y_HORA_DE_REALIZACIÓN:-2" data-name="FECHA Y HORA DE REALIZACIÓN:" transform="translate(445 11735.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Fecha y hora de realización:</tspan></text>
+    <text id="SALDO_SEGÚN_LIBRO_DE_CAJA:" data-name="SALDO SEGÚN LIBRO DE CAJA:" transform="translate(443 11661.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Saldo según libro de caja:</tspan></text>
+    <text id="BILLETES_DE_10.000" data-name="BILLETES DE $10.000" transform="translate(443 11849.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $10.000</tspan></text>
+    <text id="FACTURAS" transform="translate(443 12191.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Facturas</tspan></text>
+    <text id="BILLETES_DE_2.000" data-name="BILLETES DE $2.000" transform="translate(443 11907.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Billetes de $2.000</tspan></text>
+    <text id="OTROS_FONDOS-2" data-name="OTROS FONDOS" transform="translate(443 12249.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Otros fondos</tspan></text>
+    <text id="MONEDAS_DE_1.000" data-name="MONEDAS DE $1.000" transform="translate(443 11965.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $1.000</tspan></text>
+    <text id="MONEDAS_DE_200" data-name="MONEDAS DE $200" transform="translate(443 12022.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $200</tspan></text>
+    <text id="MONEDAS_DE_500-2" data-name="MONEDAS DE $500" transform="translate(443 12080.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Monedas de $500</tspan></text>
+    <text id="XXXXXXX" transform="translate(803 11599.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">XXXXXXX</tspan></text>
+    <text id="_0_00" data-name="0,00" transform="translate(803 11788.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-2" data-name="0,00" transform="translate(803 12129.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
+    <text id="_0_00-3" data-name="0,00" transform="translate(802 11876.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-4" data-name="0,00" transform="translate(802 12218.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
+    <text id="_0_00-5" data-name="0,00" transform="translate(802 11963.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-6" data-name="0,00" transform="translate(803 11817.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-7" data-name="0,00" transform="translate(803 12158.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
+    <text id="_0_00-8" data-name="0,00" transform="translate(802 11905.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-9" data-name="0,00" transform="translate(802 12247.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
+    <text id="_0_00-10" data-name="0,00" transform="translate(802 11992.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-11" data-name="0,00" transform="translate(803 11846.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-12" data-name="0,00" transform="translate(803 12188.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="75.923" y="17">0,00</tspan></text>
+    <text id="_0_00-13" data-name="0,00" transform="translate(802 11935.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0" data-name="0" transform="translate(802 12277.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="89.625" y="17">0</tspan></text>
+    <text id="_0_00-14" data-name="0,00" transform="translate(802 12022.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-15" data-name="0,00" transform="translate(802 12079.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_0_00-16" data-name="0,00" transform="translate(802 12050.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="151.847" y="17">0,00</tspan></text>
+    <text id="_" data-name="$" transform="translate(803 11706.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">$</tspan></text>
+    <text id="DIA_MES_AÑO" data-name="DIA/MES/AÑO" transform="translate(786 11628.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">DIA/MES/AÑO</tspan></text>
+    <text id="UNIDADES" transform="translate(701 11737.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="34.022" y="17">Unidades</tspan></text>
+    <text id="Total" transform="translate(855 11737.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="54.013" y="17">Total</tspan></text>
+    <text id="_0.000.000_00" data-name="0.000.000,00" transform="translate(778 11661.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="16.132" y="17">0.000.000,00</tspan></text>
+    <line id="Línea_42" data-name="Línea 42" y2="82.29" transform="translate(698.759 11602.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_366" data-name="Línea 366" y2="314.29" transform="translate(698.759 11790.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_368" data-name="Línea 368" y2="169.29" transform="translate(698.759 12132.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_364" data-name="Línea 364" y2="59.29" transform="translate(698.759 11703.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_365" data-name="Línea 365" y2="59.29" transform="translate(849.759 11703.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_367" data-name="Línea 367" y2="320.29" transform="translate(849.759 11784.21)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <rect id="Rectángulo_26704" data-name="Rectángulo 26704" width="573" height="29" transform="translate(434 11439)" fill="#f3c7b2"/>
+    <rect id="Rectángulo_26706" data-name="Rectángulo 26706" width="573" height="29" transform="translate(434 11468)" fill="#f4dbcf"/>
+    <rect id="Rectángulo_26705" data-name="Rectángulo 26705" width="573" height="29" transform="translate(434 11497)" fill="#f3c7b2"/>
+    <text id="NOMBRE_DE_LA_EMPRESA:_" data-name="NOMBRE DE LA EMPRESA: " transform="translate(445 11444.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nombre de la empresa: </tspan></text>
+    <text id="TELÉFONO:" transform="translate(805 11472.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Teléfono:</tspan></text>
+    <text id="NIT_DE_LA_EMPRESA:" data-name="NIT DE LA EMPRESA:" transform="translate(445 11472.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Nit de la empresa:</tspan></text>
+    <text id="DIRECCIÓN_DE_LA_EMPRESA:" data-name="DIRECCIÓN DE LA EMPRESA:" transform="translate(445 11499.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Dirección de la empresa:</tspan></text>
+    <line id="Línea_44" data-name="Línea 44" y2="87" transform="translate(698.761 11439.5)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="4"/>
+    <line id="Línea_369" data-name="Línea 369" x2="250" transform="translate(431.5 12584.5)" fill="none" stroke="#00223d" stroke-width="1"/>
+    <line id="Línea_370" data-name="Línea 370" x2="250" transform="translate(757.5 12584.5)" fill="none" stroke="#00223d" stroke-width="1"/>
+    <g id="Rectángulo_26730" data-name="Rectángulo 26730" transform="translate(397 11259)" fill="none" stroke="#bfbaba" stroke-width="1">
+      <rect width="647" height="1388" stroke="none"/>
+      <rect x="0.5" y="0.5" width="646" height="1387" fill="none"/>
     </g>
   </g>
 </svg>
